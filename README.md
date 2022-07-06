@@ -1,0 +1,1 @@
+# sample Rick and Morty API node + react
